@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/matheus-nantes/" target="_blanimggk"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-I'm currently Software Engineering student at UFMS (Universidade Federal do Mato Grosso do Sul). 
+I'm currently Software Engineering student at UFMS (Universidade Federal de Mato Grosso do Sul). 
      
   ##
 
