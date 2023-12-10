@@ -1,7 +1,7 @@
 ## Hello world, I'm Matheus!😀
 <img align='right' src='https://i.imgur.com/9jzYCSD.png' width='350'>
  <div> 
-  <a href="https://instagram.com/mateus.nantesrs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/matheus.nantesrs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nantes/" target="_blanimggk"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
