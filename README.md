@@ -1,6 +1,8 @@
 ## Hello world, I'm Matheus!😀
 <img align='right' src='https://i.imgur.com/9jzYCSD.png' width='350'>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ZC0SnImQdzWFjIVEei" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/app-wallpaper-muzter-ZC0SnImQdzWFjIVEei">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ZC0SnImQdzWFjIVEei" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+
  <div> 
   <a href="https://instagram.com/matheus_nantesrs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nantes/" target="_blanimggk"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
