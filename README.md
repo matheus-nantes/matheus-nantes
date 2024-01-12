@@ -1,5 +1,5 @@
 ## Hello world, I'm Matheus!😀
-<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h4OG0zOW55MXh2a2hjb2Z4bWs5bjIwbDFxam5lc28wdDlwc3JpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZC0SnImQdzWFjIVEei/giphy.gif' width='20%'>
+<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h4OG0zOW55MXh2a2hjb2Z4bWs5bjIwbDFxam5lc28wdDlwc3JpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZC0SnImQdzWFjIVEei/giphy.gif' width='25%'>
 </div>
 
  <div> 
@@ -13,8 +13,8 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
 
 <div align="center">
   <a href="https://github.com/nantesgi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
   ##
