@@ -1,5 +1,5 @@
 ## Hello world, I'm Matheus!😀
-<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h4OG0zOW55MXh2a2hjb2Z4bWs5bjIwbDFxam5lc28wdDlwc3JpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZC0SnImQdzWFjIVEei/giphy.gif' width='200'>
+<img align='right' src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h4OG0zOW55MXh2a2hjb2Z4bWs5bjIwbDFxam5lc28wdDlwc3JpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZC0SnImQdzWFjIVEei/giphy.gif' width='250'>
 </div>
 
  <div> 
