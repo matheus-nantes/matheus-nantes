@@ -11,7 +11,7 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
      
   ##
 
-<div align="center-start">
+<div align="start">
   <a href="https://github.com/matheus-nantes">
   <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=transparent"/>
