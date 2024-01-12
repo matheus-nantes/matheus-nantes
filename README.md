@@ -13,8 +13,8 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
 
 <div>
   <a href="https://github.com/matheus-nantes">
-  <img width="44.5283%" src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img width="29.5%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=transparent"/>
+  <img width="43.7735%" src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img width="29%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
   ##
@@ -22,7 +22,7 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
   Top Repositories
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=IMPLEX&theme=transparent)](https://github.com/matheus-nantes/IMPLEX)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=IMPLEX&theme=transparent)](https://github.com/matheus-nantes/lbd)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=IMPLEX&theme=transparent)](https://github.com/matheus-nantes/ED)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=lbd&theme=transparent)](https://github.com/matheus-nantes/lbd)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=ED&theme=transparent)](https://github.com/matheus-nantes/ED)
  
 ![](https://komarev.com/ghpvc/?username=matheus-nantes&label=📈+You+are+visitor+number&color=green)
