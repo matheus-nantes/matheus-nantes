@@ -1,6 +1,6 @@
 ## Hello world, I'm Matheus!😀
 <img align='right' src='https://i.imgur.com/9jzYCSD.png' width='350'>
-<img align='right' src="https://giphy.com/embed/ZC0SnImQdzWFjIVEei" width='350'>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ZC0SnImQdzWFjIVEei" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/app-wallpaper-muzter-ZC0SnImQdzWFjIVEei">via GIPHY</a></p>
 </div>
 
  <div> 
