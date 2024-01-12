@@ -13,8 +13,8 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
 
 <div>
   <a href="https://github.com/matheus-nantes">
-  <img width="43.7735%" src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img width="29%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=transparent"/>
+  <img width="43.4%" src="https://github-readme-stats.vercel.app/api?username=matheus-nantes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img width="28.75%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-nantes&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
   ##
