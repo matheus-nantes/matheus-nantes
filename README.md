@@ -19,6 +19,6 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
 
   Top Repositories
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=IMPLEX)](https://github.com/matheus-nantes/IMPLEX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=IMPLEX&theme=transparent)](https://github.com/matheus-nantes/IMPLEX)
  
 ![](https://komarev.com/ghpvc/?username=matheus-nantes&label=📈+You+are+visitor+number&color=green)
