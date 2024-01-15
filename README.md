@@ -22,7 +22,7 @@ I'm currently Software Engineering student at UFMS (Universidade Federal de Mato
   Top Repositories
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=IMPLEX&theme=transparent)](https://github.com/matheus-nantes/IMPLEX)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=lbd&theme=transparent)](https://github.com/matheus-nantes/T1-LBD)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=T1-LBD&theme=transparent)](https://github.com/matheus-nantes/T1-LBD)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheus-nantes&repo=ED&theme=transparent)](https://github.com/matheus-nantes/ED)
  
 ![](https://komarev.com/ghpvc/?username=matheus-nantes&label=📈+You+are+visitor+number&color=green)
